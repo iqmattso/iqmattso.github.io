@@ -7,4 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+I'm a 3rd year Electrical Engineering Ph.D. student at [Michigan Tech](https://www.mtu.edu/). I graduated with a Bachelor's in Electrical Engineering from MTU and continuing to working with the Robust Autonomous Systems Lab.
+
+# Research Interests #
+- Autonomous Vehicle Sensor Benchmarking
+- Adverse Winter Weather Sensor Interactions
+- Robotic Standards Development
