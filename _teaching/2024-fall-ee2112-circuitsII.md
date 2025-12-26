@@ -2,7 +2,7 @@
 title: "Electric Circuits II Lab"
 collection: teaching
 type: "Undergraduate Course - Lab"
-permalink: /teaching/2024-ee2112-circuitsII
+permalink: /teaching/2024-fall-ee2112-circuitsII
 venue: "Michigan Technological University, Electrical and Computer Enigneering Department"
 date: 2024 Spring + Fall Semesters
 location: "Houghton, MI"
