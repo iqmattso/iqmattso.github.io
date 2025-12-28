@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course - Lab"
 permalink: /teaching/2024-spring-ee2180-intro-to-robotics
 venue: "Michigan Technological University, Electrical and Computer Enigneering Department"
-date: 2024 Spring Semester
+date: 2024-01-07
 location: "Houghton, MI"
 ---
 

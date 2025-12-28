@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course - Lab"
 permalink: /teaching/2024-fall-ee3280-robot-operating-systems
 venue: "Michigan Technological University, Electrical and Computer Enigneering Department"
-date: 2024 Fall Semester
+date: 2024-08-26
 location: "Houghton, MI"
 ---
 
